@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 5 |
+| 35 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (5)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
-- [math](#math) (5)
-- [strings](#strings) (8)
+- [brute force](#brute-force) (7)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (23)
+- [math](#math) (8)
+- [sortings](#sortings) (1)
+- [strings](#strings) (13)
 
 ---
 
@@ -29,12 +30,16 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.c) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/231/A%20-%20Team/solution.c) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 2139A | [Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2139/A%20-%20Maple%20and%20Multiplication/solution.c) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
@@ -42,16 +47,29 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/41/A%20-%20Translation/solution.c) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/59/A%20-%20Word/solution.c) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/96/A%20-%20Football/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/118/A%20-%20String%20Task/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.c) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.c) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.c) |
+| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1676/A%20-%20Lucky%3F/solution.c) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1742/A%20-%20Sum/solution.c) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.c) |
+| 2172A | [ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2172/A%20-%20ASCII%20Art%20Contest/solution.cpp) |
 
 ### math
 
@@ -59,21 +77,35 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1/A%20-%20Theatre%20Square/solution.c) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/617/A%20-%20Elephant/solution.c) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
+| 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.c) |
 | 2139A | [Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2139/A%20-%20Maple%20and%20Multiplication/solution.c) |
+| 2145A | [Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2145/A%20-%20Candies%20for%20Nephews/solution.c) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/41/A%20-%20Translation/solution.c) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/59/A%20-%20Word/solution.c) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.c) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/96/A%20-%20Football/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/118/A%20-%20String%20Task/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.c) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
 ---
