@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 12 |
+| 50 | 12 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (31)
-- [math](#math) (12)
+- [math](#math) (13)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (14)
@@ -84,6 +84,7 @@
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### implementation
 
@@ -137,6 +138,7 @@
 | 2145A | [Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2145/A%20-%20Candies%20for%20Nephews/solution.c) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### schedules
 
