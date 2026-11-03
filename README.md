@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 12 |
+| 52 | 12 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (8)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (32)
 - [math](#math) (13)
 - [schedules](#schedules) (1)
@@ -59,6 +59,7 @@
 |---|---------|------------|----------|
 | 1611B | [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1611/B%20-%20Team%20Composition%3A%20Programmers%20and%20Mathematicians/solution.cpp) |
 | 2191A | [Array Coloring](https://codeforces.com/contest/2191/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2191/A%20-%20Array%20Coloring/solution.cpp) |
+| 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 
 ### games
 
@@ -85,6 +86,7 @@
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
+| 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 
 ### implementation
 
