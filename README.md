@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 12 |
+| 51 | 12 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (13)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (2)
-- [strings](#strings) (14)
+- [sortings](#sortings) (3)
+- [strings](#strings) (15)
 
 ---
 
@@ -121,6 +121,7 @@
 | 2172A | [ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2172/A%20-%20ASCII%20Art%20Contest/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### math
 
@@ -152,6 +153,7 @@
 |---|---------|------------|----------|
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### strings
 
@@ -171,6 +173,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.c) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ---
 
