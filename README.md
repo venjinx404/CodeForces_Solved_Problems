@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 13 |
+| 56 | 13 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (33)
 - [math](#math) (13)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (15)
 
 ---
@@ -85,6 +85,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
@@ -162,6 +163,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/venjinx404/CodeForces_Solved_Problems/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
